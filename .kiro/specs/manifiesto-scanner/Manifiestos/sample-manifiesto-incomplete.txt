@@ -1,0 +1,46 @@
+MANIFIESTO DE SALIDA
+AEROPUERTO INTERNACIONAL DE GUADALAJARA
+FECHA: 28/01/2024                    FOLIO: MS-2024-003789
+
+INFORMACIÓN DEL VUELO
+Transportista: INTERJET
+Equipo: AIRBUS A321
+Matrícula: [ILEGIBLE]
+Número de Vuelo: 4O-456
+
+INFORMACIÓN DEL PILOTO
+Piloto al Mando: [NO DETECTADO]
+Número de Licencia: PIL-2024-[ILEGIBLE]
+Tripulación: 5
+
+MOVIMIENTO DE OPERACIONES
+Origen del Vuelo: GUADALAJARA (GDL)
+Próxima Escala: [VACÍO]
+Destino del Vuelo: MONTERREY (MTY)
+Hora Slot Asignado: 16:45
+Hora Slot Coordinado: [NO DETECTADO]
+Hora Término Pernocta: 15:30
+Hora Inicio Maniobras: [ILEGIBLE]
+Hora Salida Posición: 17:00
+
+CAUSA DE DEMORA
+Causa: [VACÍO]
+Código: [NO DETECTADO]
+
+INFORMACIÓN DE EMBARQUE
+PASAJEROS:
+Nacional: 189
+Internacional: [ILEGIBLE]
+Diplomáticos: 0
+En Comisión: 1
+Infantes: [NO DETECTADO]
+Tránsitos: 0
+Conexiones: [ILEGIBLE]
+Otros Exentos: 0
+TOTAL PASAJEROS: [CALCULADO: 190+]
+
+CARGA:
+Equipaje: [ILEGIBLE] kg
+Carga: 950 kg
+Correo: [NO DETECTADO] kg
+TOTAL CARGA: [INCOMPLETO]

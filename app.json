@@ -1,0 +1,58 @@
+{
+  "expo": {
+    "name": "Escáner de Manifiestos",
+    "slug": "manifiesto-scanner",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png", // Asegúrate de que sea cuadrado (ej: 1024x1024)
+    "scheme": "manifiesto-scanner",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png",
+      "name": "Escáner de Manifiestos",
+      "shortName": "ManifiestoScanner",
+      "lang": "es",
+      "scope": "/",
+      "themeColor": "#000000",
+      "backgroundColor": "#ffffff",
+      "display": "standalone",
+      "orientation": "portrait-primary",
+      "startUrl": "/",
+      "preferRelatedApplications": false,
+      "dangerouslyAllowInsecureHttpInProduction": false
+    },
+    "plugins": [
+      "expo-router", 
+      "expo-font", 
+      "expo-web-browser",
+      [
+        "expo-build-properties",
+        {
+          "web": {
+            "bundler": "webpack"
+          }
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      }
+    }
+  }
+}

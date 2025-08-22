@@ -1,0 +1,46 @@
+MANIFIESTO DE SALIDA
+AEROPUERTO INTERNACIONAL BENITO JUÁREZ
+FECHA: 15/01/2024                    FOLIO: MS-2024-001234
+
+INFORMACIÓN DEL VUELO
+Transportista: AEROMÉXICO
+Equipo: BOEING 737-800
+Matrícula: XA-AMX
+Número de Vuelo: AM-123
+
+INFORMACIÓN DEL PILOTO
+Piloto al Mando: CARLOS RODRIGUEZ MARTINEZ
+Número de Licencia: PIL-2024-5678
+Tripulación: 6
+
+MOVIMIENTO DE OPERACIONES
+Origen del Vuelo: CIUDAD DE MÉXICO (MEX)
+Próxima Escala: GUADALAJARA (GDL)
+Destino del Vuelo: GUADALAJARA (GDL)
+Hora Slot Asignado: 14:30
+Hora Slot Coordinado: 14:35
+Hora Término Pernocta: 13:45
+Hora Inicio Maniobras: 14:00
+Hora Salida Posición: 14:40
+
+CAUSA DE DEMORA
+Causa: DEMORA OPERACIONAL
+Código: OP-15
+
+INFORMACIÓN DE EMBARQUE
+PASAJEROS:
+Nacional: 142
+Internacional: 8
+Diplomáticos: 0
+En Comisión: 2
+Infantes: 12
+Tránsitos: 0
+Conexiones: 5
+Otros Exentos: 1
+TOTAL PASAJEROS: 170
+
+CARGA:
+Equipaje: 2,450 kg
+Carga: 1,200 kg
+Correo: 150 kg
+TOTAL CARGA: 3,800 kg
